@@ -1,0 +1,35 @@
+form{
+    border: solid 1px;
+    width: 850px;
+    height: 800px;
+    margin-left: 350px;
+    background-color: rgb(202, 202, 221);
+}
+h1{
+    color: rgb(14, 13, 13);
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    color: red;
+    font-size: 20px;
+}
+label{
+    color: blue;
+    font-size: 30px;
+    font-weight: bold;
+}
+input{
+    width: 400px;
+    height: 30px;
+}
+textarea{
+    height: 100px;
+    width: 400px;
+}
+button{
+    height: 40px;
+    width: 70px;
+    background-color: chartreuse;
+    border-radius: 10px;
+}
